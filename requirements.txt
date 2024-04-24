@@ -2,6 +2,6 @@ numpy
 pandas
 folium
 streamlit
-matplotlib.pyplot
+matplotlib
 streamlit_folium
 
